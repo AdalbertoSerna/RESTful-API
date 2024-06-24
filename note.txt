@@ -1,0 +1,2 @@
+Hello we did everything with professor except what was done during the first 10 minutes so watch the first 10 minutes
+of the lecture and fix the default thing then make a vim index.php
